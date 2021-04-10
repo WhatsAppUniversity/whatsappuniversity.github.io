@@ -1,13 +1,7 @@
 [{
 	"id": 1,
-	"name": "Neta 1",
-	"img_url" : "https://cdn4.iconfinder.com/data/icons/jobs-and-occupations-3/64/Politician-job-avatar-profession-occupation-election-vote-speaker-speech-politics-512.png",
-	"description": "lorem",
-	"related_link": "https://whatsappuniversity.in"
-},{
-	"id": 1,
-	"name": "Neta 1",
-	"img_url" : "https://cdn4.iconfinder.com/data/icons/jobs-and-occupations-3/64/Politician-job-avatar-profession-occupation-election-vote-speaker-speech-politics-512.png",
-	"description": "lorem",
-	"related_link": "https://whatsappuniversity.in"
+	"name": "Arjun Ram Meghwal",
+	"img_url" : "https://upload.wikimedia.org/wikipedia/commons/b/b3/Shri_Arjun_Ram_Meghwal_taking_charge_as_the_Minister_of_State_for_Water_Resources%2C_River_Development_and_Ganga_Rejuvenation%2C_in_New_Delhi_on_September_04%2C_2017.jpg",
+	"description": "In late July, a video of Arjun Ram Meghwal, a junior Union minister for heavy industries and parliamentary affairs and BJP’s member of parliament from Bikaner, had gone viral on social media for claiming a brand of papad had a cure for coronavirus",
+	"related_link": "https://thewire.in/government/union-minister-arjun-ram-meghwal-bhabhiji-papad-covid-19"
 }]
