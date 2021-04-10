@@ -1,0 +1,9 @@
+[
+{
+id: 1,
+name:'Neta 1',
+img_url = 'https://cdn4.iconfinder.com/data/icons/jobs-and-occupations-3/64/Politician-job-avatar-profession-occupation-election-vote-speaker-speech-politics-512.png',
+description:'lorem',
+related_link:'https://whatsappuniversity.in'
+},
+]
